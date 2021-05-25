@@ -11,16 +11,16 @@ dependencies:
     sdk: flutter
   flutter_web_plugins:
     sdk: flutter
-  json_annotation: ^4.0.0
+  json_annotation: ^4.0.1
 dev_dependencies:
-  integration_test: ^1.0.2+2
+  integration_test: ^1.0.2+3
   flutter_test:
     sdk: flutter
   flutter_driver:
     sdk: flutter
   pedantic: ^1.11.0
-  build_runner: ^1.11.5
-  json_serializable: ^4.0.2
+  build_runner: ^2.0.4
+  json_serializable: ^4.1.2
 flutter:
   plugin:
     platforms:
